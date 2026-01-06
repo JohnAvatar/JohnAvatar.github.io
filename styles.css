@@ -1,0 +1,201 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+}
+body {
+    background-color: transparent;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+    padding: 20px;
+    min-height: 100vh;
+    position: relative;
+    overflow-x: hidden;
+}
+
+/* Background image: images/bg_johnavatarqrlogo.png */
+html::before {
+    content: '';
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100vw;
+    height: 100vh;
+    background-image: url('images/bg_johnavatarqrlogo.png');
+    background-size: contain;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    opacity: 0.15;
+    -webkit-filter: blur(20px);
+    filter: blur(20px);
+    z-index: -2;
+    pointer-events: none;
+}
+
+html::after {
+    content: '';
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(0, 150, 255);
+    opacity: 0.3;
+    z-index: -1;
+    pointer-events: none;
+}
+.container {
+    max-width: 1000px;
+    width: 1000px;
+    margin: 0 auto;
+    position: relative;
+    z-index: 1;
+    padding: 25px;
+    min-height: 100vh;
+    overflow: hidden;
+}
+
+.container img {
+    max-width: 100%;
+    height: auto;
+}
+.element-wrapper-8AEA7163-D088-4E26-99D2-0D839F4947C4 {
+    position: absolute;
+    left: 250px;
+    top: 0px;
+    width: 54px;
+    z-index: 1;
+}
+
+.element-content-8AEA7163-D088-4E26-99D2-0D839F4947C4 {
+    width: 100%;
+    max-width: 100%;
+}
+.element-8AEA7163-D088-4E26-99D2-0D839F4947C4 {
+    width: 54px;
+    max-width: 100%;
+    min-width: 50px;
+    height: auto;
+    display: block;
+    box-sizing: border-box;
+    border: 0px solid transparent;
+    border-radius: 12px;
+    margin: 0;
+}
+.element-8AEA7163-D088-4E26-99D2-0D839F4947C4-link {
+    display: inline-block;
+    width: 54px;
+    max-width: 100%;
+    box-sizing: border-box;
+}
+.element-wrapper-413F32E8-43D2-4608-AE22-8C22B8E41BD7 {
+    position: absolute;
+    left: 291px;
+    top: 4px;
+    width: 416px;
+    z-index: 1;
+}
+
+.element-content-413F32E8-43D2-4608-AE22-8C22B8E41BD7 {
+    width: 100%;
+    max-width: 100%;
+}
+.element-413F32E8-43D2-4608-AE22-8C22B8E41BD7 {
+    font-family: Arial Black;
+    font-size: 34px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    width: 416px;
+    max-width: 100%;
+    padding: 0px;
+    border: 0px solid transparent;
+    border-radius: 8px;
+    box-sizing: border-box;
+}
+.element-wrapper-63E4FE78-7B64-40D3-9B6B-4776BCCD4F7D {
+    position: absolute;
+    left: 255px;
+    top: 53px;
+    width: 489px;
+    z-index: 1;
+}
+
+.element-content-63E4FE78-7B64-40D3-9B6B-4776BCCD4F7D {
+    width: 100%;
+    max-width: 100%;
+}
+.element-63E4FE78-7B64-40D3-9B6B-4776BCCD4F7D {
+    width: 489px;
+    max-width: 100%;
+    min-width: 50px;
+    height: auto;
+    display: block;
+    box-sizing: border-box;
+    border: 0px solid transparent;
+    border-radius: 12px;
+    margin: 0;
+}
+.element-63E4FE78-7B64-40D3-9B6B-4776BCCD4F7D-link {
+    display: inline-block;
+    width: 489px;
+    max-width: 100%;
+    box-sizing: border-box;
+}
+.element-wrapper-21991421-27F3-47CB-9F63-4FFC58EE088C {
+    position: absolute;
+    left: 250px;
+    top: 286px;
+    width: 500px;
+    z-index: 1;
+}
+
+.element-content-21991421-27F3-47CB-9F63-4FFC58EE088C {
+    width: 100%;
+    max-width: 100%;
+}
+.element-21991421-27F3-47CB-9F63-4FFC58EE088C {
+    width: 500px;
+    max-width: 100%;
+    min-width: 50px;
+    height: auto;
+    display: block;
+    box-sizing: border-box;
+    border: 7px solid rgb(255, 47, 146);
+    border-radius: 12px;
+    margin: 0;
+}
+.element-wrapper-45DBEDDA-F94D-421D-B988-A8CB5247CEE2 {
+    position: absolute;
+    left: 257px;
+    top: 701px;
+    width: 485px;
+    z-index: 1;
+}
+
+.element-content-45DBEDDA-F94D-421D-B988-A8CB5247CEE2 {
+    width: 100%;
+    max-width: 100%;
+}
+.element-45DBEDDA-F94D-421D-B988-A8CB5247CEE2 {
+    font-family: Verdana;
+    font-size: 10px;
+    color: rgb(0, 0, 0);
+    text-align: left;
+    width: 485px;
+    max-width: 100%;
+    padding: 4px;
+    border: 4px solid rgb(0, 0, 0);
+    border-radius: 8px;
+    box-sizing: border-box;
+}
