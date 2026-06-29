@@ -1,0 +1,327 @@
+{
+    "station":
+    [
+    {
+	"name": "Electronic Space Music",
+	"streamURL": "http://eagle.streemlion.com:4580/stream",
+	"imageURL": "",
+	"desc": "JourneyScapesRadio.com",
+	"longDesc": "GENRE Electronic Synth"
+    },
+    {
+	"name": "EBSM - Electro Body Synth Music",
+	"streamURL": "https://nightride.fm/stream/ebsm.m4a",
+	"imageURL": "",
+	"desc": "JOHN WICK's MATRIX       NightRide.fm",
+	"longDesc": "NIGHTRIDE.fm - EBSM - Electro Body Synth Music - On Air: ASSALM - Influenza - 24/7 dark clubbing live mix with heavy industrial, cyberpunk, EBM and dark synthwave influences."
+    },
+    {
+        "name": "SYNTHPOP",
+        "streamURL": "http://air.synthez.net:8888/192",
+        "imageURL": "",
+        "desc": "Electronic Synth Hits Synthez.Net",
+        "longDesc": "GENRE: Synthpop Radio Synthez.Net | 128kbs+ On Air: Karuss - It's Worth A Try 24/7 ONLINE :: Synthpop | Electropop | Futurepop | EBM | Industrial"
+    },
+    {
+        "name": "ITALO EURO DISCO",
+        "streamURL": "http://newairhost.com:8034/listen.pls?sid=1&t=.pls",
+        "imageURL": "",
+        "desc": "RadioMaxItalo.com",
+        "longDesc": "GENRE: Electronic Synth"
+    },
+    {
+        "name": "GIANT WORKOUT",
+        "streamURL": "http://stream.friskyradio.com/frisky_mp3_hi",
+        "imageURL": "",
+        "desc": "DANCE  MUSIC - BERLIN GERMANY",
+        "longDesc": "GENRE: Electronic Synth"
+    },
+	{
+	"name": "Experimental Music",
+	"streamURL": "http://sfsound.org:8000/listen.pls?sid=1",
+	"imageURL": "",
+	"desc": "sfSoundRadio sfsound.org/radio.html - San Francisco",
+	"longDesc": "GENRE: Experimental Music from; sfSoundRadio, 106 fairmount, Oakland, CA 94611 - http://sfsound.org/radio.html"
+	},
+    {
+        "name": "Ambient Sounds 1",
+        "streamURL": "http://philae.shoutca.st:9019/;stream/1",
+        "imageURL": "",
+        "desc": "For Meditation, Relaxing, or Just to Enjoy!",
+        "longDesc": "GENRE: Electronic Synth"
+    },
+	{
+	"name": "Ambient Sounds 2",
+        "streamURL": "http://radio.stereoscenic.com/ama-h",
+        "imageURL": "",
+        "desc": "For Meditation, Relaxing, or Just to Enjoy!",
+        "longDesc": "GENRE: Electronic Synth"
+	},
+     {
+	"name": "Cinematic Soundtracks 1",
+	"streamURL": "http://hi5.streamingsoundtracks.com",
+	"imageURL": "",
+	"desc": "StreamingSoundtracks.com Film Soundtracks",
+	"longDesc": "GENRE: Film Movie Cinema Soundtrack"
+     },
+     {
+	"name": "Cinematic Soundtracks 2",
+	"streamURL": "http://94.23.51.96:8001/;",
+	"imageURL": "",
+	"desc": "CineMix.us Film Soundtracks",
+	"longDesc": "GENRE: Film Movie Cinema Soundtrack"
+     },
+     {
+         "name": "Disney Park Music 1",
+         "streamURL": "http://162.244.80.106:8108/listen;",
+         "imageURL": "",
+         "desc": "TuneDisney.com Disney Music, Park & Rides, WorldWide... like being there!",
+         "longDesc": "GENRE: Disney - DPARKRADIO"
+     },
+     {
+         "name": "Disney Park Music 2",
+         "streamURL": "http://horizons.subsonicradio.com:8000/requests.mp3",
+         "imageURL": "",
+         "desc": "SubsonicRadio.com - Disney Theme Park Music ",
+         "longDesc": "GENRE: Disney Theme Park Music "
+     },
+     {
+         "name": "CHRISTMAS",
+         "streamURL": "http://bitsmitter.com:9000/hollyfm",
+         "imageURL": "",
+         "desc": "Santa Claus and Everything!",
+         "longDesc": "GENRE: Christmas Holiday"
+     },
+     {
+         "name": "Johann Sebastian Bach",
+         "streamURL": "https://stream.klassikradio.de/purebach/mp3-128/radiode/",
+         "imageURL": "",
+         "desc": "KlassikRadio.de",
+         "longDesc": "GENRE: Classical - Johann Sebastian Bach (31 March [O.S. 21 March] 1685 – 28 July 1750) German composer"
+     },
+     {
+         "name": "Wolfgang Amadeus Mozart",
+         "streamURL": "http://37.251.146.169:8300/stream",
+         "imageURL": "",
+         "desc": "Wolfgang Amadeus Mozart",
+         "longDesc": "GENRE: Classical - Wolfgang Amadeus Mozart (27 January 1756 – 5 December 1791) Austrian composer"
+     },
+     {
+         "name": "Ludvig Van Beethoven",
+         "streamURL": "http://37.251.146.169:7200/stream",
+         "imageURL": "",
+         "desc": "Ludvig Van Beethoven",
+         "longDesc": "GENRE: Classical - Ludwig van Beethoven (baptised 17 December 1770 – 26 March 1827) German composer"
+     },
+     {
+         "name": "Classical Music - Venice",
+         "streamURL": "http://5.196.98.235:80/stream1",
+         "imageURL": "",
+         "desc": "Venice Classic Radio Italia - Venice, Italy",
+         "longDesc": "GENRE: Classical, Directly from Venice, Italy, Venice Classic Radio Italia"
+     },
+     {
+         "name": "Baroque Music",
+         "streamURL": "http://wshu.streamguys.org/wshu-baroque",
+         "imageURL": "",
+         "desc": "SundayBaroque.org",
+         "longDesc": "GENRE: Baroque Music - Relax with Sunday Baroque radio, celebrating the greatest baroque hits from 1600-1750 and the years leading up to it."
+     },
+     {
+         "name": "EMO 2 METAL",
+         "streamURL": "http://151.80.43.143:8040/_autodj.mp3",
+         "imageURL": "",
+         "desc": "",
+         "longDesc": "GENRE: Rock"
+     },
+     {
+         "name": "METAL",
+         "streamURL": "http://23.237.150.98:8512/;",
+         "imageURL": "",
+         "desc": "M E T A L M E T A L M E T A L M E T A L",
+         "longDesc": "GENRE: Rock. SQUIZZ - M E T A L M E T A L M E T A L M E T A L M E T A L M E T A L M E T A L M E T A L M E T A L M E T A L M E T A L M E T A L M E T A L "
+     },
+     {
+         "name": "Shoegaze & Dream POP",
+         "streamURL": "https://securestreams6.autopo.st:2102/;#.mp3",
+         "imageURL": "",
+         "desc": "DKFM Shoegaze Radio - Los Angeles, CA  USA",
+         "longDesc": "GENRE: Rock"
+     },
+     {
+         "name": "ROCK ALT PSYCHEDELIC",
+         "streamURL": "http://www.partyviberadio.com:8032/listen.pls?sid=3&t=.pls",
+         "imageURL": "",
+         "desc": "",
+         "longDesc": "GENRE: Rock"
+     },
+     {
+         "name": "@MelaniaTrump RADIO",
+         "streamURL": "http://stream.rockradio.si:9034/;stream/1",
+         "imageURL": "",
+         "desc": "Classic Rock and Roll, Slovenia Style! www.rockradio.si",
+         "longDesc": "GENRE: Rock"
+     },
+     {
+         "name": "Classic Rock",
+         "streamURL": "http://www.uturnradio.com/media/classic_rock.m3u",
+         "imageURL": "",
+         "desc": "Classic, Rock, Top, 40",
+         "longDesc": "GENRE: Rock. VLC (Uturn Radio) was = http://listen-us.uturnradio.com:80/classic_rock"
+     },
+     {
+         "name": "80's ~ 90's   H I T S",
+         "streamURL": "http://91.121.155.204:8048/listen.pls?sid=1",
+         "imageURL": "",
+         "desc": "1000 HITS 80s 90s",
+         "longDesc": "GENRE: 80s 90s oldies hits"
+     },
+     {
+         "name": "ROCK OLDIES 60's ~ 80's",
+         "streamURL": "http://46.165.208.21:8313/listen.pls?sid=1&t=.pls",
+         "imageURL": "",
+         "desc": "60's 70's 80's HITS",
+         "longDesc": "GENRE: Rock"
+     },
+     {
+         "name": "50's HITS",
+         "streamURL": "http://146.71.124.10:8100/listen.pls?sid=1",
+         "imageURL": "",
+         "desc": "Dreamboat & Petticoats",
+         "longDesc": "GENRE: Rock"
+     },
+     {
+         "name": "Easy Listening",
+         "streamURL": "http://5.135.154.72:13548",
+         "imageURL": "",
+         "desc": "Omarama, New Zealand",
+         "longDesc": "GENRE: Rock"
+     },
+     {
+         "name": "BLUES ROCK",
+         "streamURL": "http://188.165.240.90:8442/stream/1/",
+         "imageURL": "",
+         "desc": "ThePhoenixRadio.com",
+         "longDesc": "GENRE: Rock Blues / HearMe - Blues Rock VLC"
+     },
+     {
+         "name": "Rhythm & Blues",
+         "streamURL": "http://192.111.140.11:8272/stream",
+         "imageURL": "",
+         "desc": "BVHarmonyRadio.com",
+         "longDesc": "GENRE: Rockin Rhythm and Blues Radio - Dedicated to all those who crave the best in late 40's and 50's Blues, Rock'n'Roll, Jive, Swing, Stroll, Early Soul, Jump Blues, Roots Hillbilly, Western Swing and more."
+     },
+     {
+         "name": "M O T O W N",
+         "streamURL": "http://airspectrum.cdnstream1.com:8024/1302_192",
+         "imageURL": "",
+         "desc": "MotownMagicOldies.com",
+         "longDesc": "GENRE: Rock Blues Motown"
+     },
+     {
+         "name": "J A Z Z",
+         "streamURL": "https://west-aac-64.streamthejazzgroove.com/stream",
+         "imageURL": "",
+         "desc": "JazzGroove.org",
+         "longDesc": "GENRE: Jazz"
+     },
+     {
+         "name": "S M O O T H   J A Z Z",
+         "streamURL": "http://cast.magicstreams.gr:9060/index.html;",
+         "imageURL": "",
+         "desc": "",
+         "longDesc": "GENRE: Jazz.  Internet Radio - 111radio athens  - http://www.111radio.gr - 111RADIO (ATHENS GREECE)"
+     },
+     {
+         "name": "KPOP - 케이팝",
+         "streamURL": "http://64.71.79.181:8040",
+         "imageURL": "",
+         "desc": "케이팝",
+         "longDesc": "KPOP - Korean POP 케이팝"
+     },
+     {
+         "name": "Japan POP - ジェイポップ",
+         "streamURL": "http://audio.misproductions.com/japan48kaacp",
+         "imageURL": "",
+         "desc": "ジェイポップ",
+	"longDesc": "Japanese POP ジェイポップ"
+     },
+     {
+         "name": "China POP - 中文流行音樂",
+         "streamURL": "http://208.80.53.108:26814",
+         "imageURL": "",
+         "desc": "中文流行音樂",
+         "longDesc": "Chinese POP - 中文流行音樂"
+     },
+     {
+         "name": "Russian POP - Русские Песни",
+         "streamURL": "https://listen.rusongs.ru/ru-aac-64",
+         "imageURL": "",
+         "desc": "RuSongs.ru Русские Песни",
+         "longDesc": "Russian POP - RuSongs.ru Русские Песни"
+     },
+     {
+         "name": "Traditional Country Music",
+         "streamURL": "http://s2.radio.co/s48275019e/listen",
+         "imageURL": "",
+         "desc": "TexasCountryMusicRadio.org",
+         "longDesc": "GENRE: Country"
+     },
+     {
+         "name": "NEW Country Music",
+         "streamURL": "http://206.190.135.28:8055/autodj",
+         "imageURL": "",
+         "desc": "",
+         "longDesc": "GENRE: Country"
+     },
+     {
+         "name": "ECLECTIC 24 - KCRW 89.9 FM",
+         "streamURL": "http://www.kcrw.com/pls/kcrwmusic.pls",
+         "imageURL": "",
+         "desc": "Santa Monica College - Santa Monica, CA  USA",
+         "longDesc": "GENRE: College"
+     },
+     {
+         "name": "KXLU 88.9 FM - LMU",
+         "streamURL": "http://www.ednixon.com:8120/stream",
+         "imageURL": "",
+         "desc": "Loyola Marymount University - Los Angeles, CA  USA",
+         "longDesc": "GENRE: College"
+     },
+     {
+         "name": "KPCC 89.3 NPR",
+         "streamURL": "http://kpcclive1.publicradio.org/kpcclive",
+         "imageURL": "",
+         "desc": "National Public Radio (NPR) - Pasadena City College - Pasadena, CA  USA",
+         "longDesc": "GENRE: College"
+     },
+     {
+         "name": "SEATTLE 106.9 FM",
+         "streamURL": "https://18423.live.streamtheworld.com/KRWMFMAAC.aac?dist=hubbard&source=hubbard-web&ttag=web",
+         "imageURL": "",
+         "desc": "TODAY & Yesterday's HITS - Seattle FM Radio",
+         "longDesc": "GENRE: TODAY & Yesterday's HITS, mostly POP Music"
+     },
+     {
+         "name": "1940's Radio Station",
+         "streamURL": "http://199.189.111.28:8012",
+         "imageURL": "",
+         "desc": "",
+         "longDesc": "GENRE: Rock"
+     },
+     {
+         "name": "LiveIreland Radio",
+         "streamURL": "http://192.111.140.11:8058/listen.pls?sid=1&t=.pls",
+         "imageURL": "",
+         "desc": "Music & Sounds from Dublin Ireland",
+         "longDesc": "GENRE: Irish Music and News from Dublin Ireland"
+     },
+     {
+         "name": "SONGNAME",
+         "streamURL": "WEBSITE",
+         "imageURL": "",
+         "desc": "ARTISTNAME",
+         "longDesc": "INFO"
+     }
+    ]
+}
