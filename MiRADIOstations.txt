@@ -1,0 +1,341 @@
+{
+    "station":
+    [
+    {
+	"name": "Electronic Space Music",
+	"streamURL": "http://66.70.187.44:9012/listen.pls?sid=1&t=.pls",
+	"imageURL": "",
+	"desc": "",
+	"longDesc": "GENRE: Electronic Synth"
+    },
+    {
+        "name": "SYNTHPOP",
+        "streamURL": "http://stream.laut.fm/synthpop",
+        "imageURL": "",
+        "desc": "Electronic Synth Hits",
+        "longDesc": "GENRE: Electronic Synth"
+    },
+    {
+        "name": "SYNTHBEAT",
+        "streamURL": "http://176.31.123.212:8192/listen.pls",
+        "imageURL": "",
+        "desc": "Chillout & Lounge",
+        "longDesc": "GENRE: Electronic Synth Beat"
+    },
+    {
+        "name": "GIANT WORKOUT",
+        "streamURL": "http://stream.friskyradio.com/frisky_mp3_hi",
+        "imageURL": "",
+        "desc": "DANCE  MUSIC - BERLIN GERMANY",
+        "longDesc": "GENRE: Electronic Synth"
+    },
+    {
+        "name": "EURO DISCO",
+        "streamURL": "http://newairhost.com:8034/listen.pls?sid=1&t=.pls",
+        "imageURL": "",
+        "desc": "",
+        "longDesc": "GENRE: Electronic Synth"
+    },
+    {
+        "name": "H O U S E",
+        "streamURL": "http://5.63.151.52:7136/listen.pls?sid=1&t=.pls",
+        "imageURL": "",
+        "desc": "",
+        "longDesc": "GENRE: Electronic Synth"
+    },
+    {
+        "name": "Ambient Sounds 1",
+        "streamURL": "http://philae.shoutca.st:9019/;stream/1",
+        "imageURL": "",
+        "desc": "For Meditation, Relaxing, or Just to Enjoy!",
+        "longDesc": "GENRE: Electronic Synth"
+    },
+	{
+	"name": "Ambient Sounds 2",
+        "streamURL": "http://radio.stereoscenic.com/ama-h",
+        "imageURL": "",
+        "desc": "For Meditation, Relaxing, or Just to Enjoy!",
+        "longDesc": "GENRE: Electronic Synth"
+	},
+	{
+	"name": "GIANT Cinematic Soundtracks",
+	"streamURL": "http://hi5.streamingsoundtracks.com",
+	"imageURL": "",
+	"desc": "Film Soundtracks",
+	"longDesc": "GENRE: Film Movie Cinema Soundtrack"
+     },
+     {
+	"name": "Cinema Soundtracks 2",
+	"streamURL": "http://78.129.146.97:7166/autodj",
+	"imageURL": "",
+	"desc": "More Film Soundtracks",
+	"longDesc": "GENRE: Film Movie Cinema Soundtrack"
+     },
+     {
+         "name": "Cinema Soundtracks 3",
+         "streamURL": "http://89.38.248.169:2199/tunein/soundtrack.pls",
+         "imageURL": "",
+         "desc": "Even More Film Soundtracks",
+         "longDesc": "GENRE: Film Movie Cinema Soundtrack"
+     },
+     {
+         "name": "HALLOWEEN MOVIES",
+         "streamURL": "http://184.75.223.178:8010/autodj",
+         "imageURL": "",
+         "desc": "Halloween Movie Sountracks",
+         "longDesc": "GENRE: Film Movie Cinema Soundtrack"
+     },
+     {
+         "name": "CHRISTMAS",
+         "streamURL": "http://bitsmitter.com:9000/hollyfm",
+         "imageURL": "",
+         "desc": "Santa Claus and Everything!",
+         "longDesc": "GENRE: Christmas Holiday"
+     },
+     {
+         "name": "Disney Park Music",
+         "streamURL": "http://bb31.sonixcast.com:20022/stream",
+         "imageURL": "",
+         "desc": "Disney Music, Park & Rides, WorldWide... like being there!",
+         "longDesc": "GENRE: Disney"
+     },
+     {
+         "name": "Ludvig Van Beethoven",
+         "streamURL": "http://37.251.146.169:7200/stream",
+         "imageURL": "",
+         "desc": "Ludvig Van Beethoven",
+         "longDesc": "GENRE: Classical. Ludvig Van Beethoven - Directly from  Romania - Asculta Radio Clasic"
+     },
+     {
+         "name": "Wolfgang Amadeus Mozart",
+         "streamURL": "http://37.251.146.169:8300/stream",
+         "imageURL": "",
+         "desc": "Wolfgang Amadeus Mozart",
+         "longDesc": "GENRE: Classical. Ludvig Van Beethoven - Directly from  Romania - Asculta Radio Clasic"
+     },
+     {
+         "name": "Classical Music",
+         "streamURL": "http://5.196.98.235:80/stream1",
+         "imageURL": "",
+         "desc": "Venice Classic Radio Italia - Venice, Italy",
+         "longDesc": "GENRE: Classical, Directly from Venice, Italy, Venice Classic Radio Italia"
+     },
+     {
+         "name": "Baroque Chamber Orchestra",
+         "streamURL": "http://8.38.78.173:8045/stream",
+         "imageURL": "",
+         "desc": "Audiophile Pre-Classic from Athens, Greece!",
+         "longDesc": "GENRE: Classical, Directly from Athens, Greece"
+     },
+     {
+         "name": "N  E  W   R O C K",
+         "streamURL": "http://198.27.80.205:5756/listen.pls?sid=1&t=.pls",
+         "imageURL": "",
+         "desc": "",
+         "longDesc": "GENRE: Rock"
+     },
+     {
+         "name": "EMO 2 METAL",
+         "streamURL": "http://151.80.43.143:8040/_autodj.mp3",
+         "imageURL": "",
+         "desc": "",
+         "longDesc": "GENRE: Rock"
+     },
+     {
+         "name": "METAL",
+         "streamURL": "http://192.240.102.133:12179/listen.pls?sid=1&t=.pls",
+         "imageURL": "",
+         "desc": "M E T A L M E T A L M E T A L M E T A L",
+         "longDesc": "GENRE: Rock. SQUIZZ - M E T A L M E T A L M E T A L M E T A L M E T A L M E T A L M E T A L M E T A L M E T A L M E T A L M E T A L M E T A L M E T A L "
+     },
+     {
+         "name": "INDIE ROCK",
+         "streamURL": "http://37.59.38.180:7654/;stream",
+         "imageURL": "",
+         "desc": "Bubbling Sounds",
+         "longDesc": "GENRE: Rock Indie"
+     },
+     {
+         "name": "Shoegaze & Dream POP",
+         "streamURL": "http://relay.sonixcast.com:80/8724",
+         "imageURL": "",
+         "desc": "DKFM Shoegaze Radio - Los Angeles, CA  USA",
+         "longDesc": "GENRE: Rock"
+     },
+     {
+         "name": "ROCK ALT PSYCHEDELIC",
+         "streamURL": "http://www.partyviberadio.com:8032/listen.pls?sid=3&t=.pls",
+         "imageURL": "",
+         "desc": "",
+         "longDesc": "GENRE: Rock"
+     },
+     {
+         "name": "ALT / SLAV ROCK",
+         "streamURL": "http://212.18.63.135:9034/rock",
+         "imageURL": "",
+         "desc": "Classic Rock and Roll, Slovenia Style! www.rockradio.si",
+         "longDesc": "GENRE: Rock"
+     },
+     {
+         "name": "Classic Rock",
+         "streamURL": "http://www.uturnradio.com/media/classic_rock.m3u",
+         "imageURL": "",
+         "desc": "Classic, Rock, Top, 40",
+         "longDesc": "GENRE: Rock. VLC (Uturn Radio) was = http://listen-us.uturnradio.com:80/classic_rock"
+     },
+     {
+         "name": "80's ~ 90's   H I T S",
+         "streamURL": "http://91.121.155.204:8048/listen.pls?sid=1",
+         "imageURL": "",
+         "desc": "1000 HITS 80s 90s",
+         "longDesc": "GENRE: 80s 90s oldies hits"
+     },
+     {
+         "name": "ROCK OLDIES 60's ~ 80's",
+         "streamURL": "http://46.165.208.21:8313/listen.pls?sid=1&t=.pls",
+         "imageURL": "",
+         "desc": "60's 70's 80's HITS",
+         "longDesc": "GENRE: Rock"
+     },
+     {
+         "name": "50's HITS",
+         "streamURL": "http://146.71.124.10:8100/listen.pls?sid=1",
+         "imageURL": "",
+         "desc": "Dreamboat & Petticoats",
+         "longDesc": "GENRE: Rock"
+     },
+     {
+         "name": "Easy Listening",
+         "streamURL": "http://5.135.154.72:13548",
+         "imageURL": "",
+         "desc": "Omarama, New Zealand",
+         "longDesc": "GENRE: Rock"
+     },
+     {
+         "name": "BLUES ROCK",
+         "streamURL": "http://8.38.78.173:8240/stream",
+         "imageURL": "",
+         "desc": "",
+         "longDesc": "GENRE: Rock Blues"
+     },
+     {
+         "name": "Rhythm & Blues",
+         "streamURL": "http://37.59.14.77:8352/stream",
+         "imageURL": "",
+         "desc": "from Athens, Greece",
+         "longDesc": "GENRE: Rock Blues"
+     },
+     {
+         "name": "M O T O W N",
+         "streamURL": "http://server.webnetradio.net:5211/autodj",
+         "imageURL": "",
+         "desc": "",
+         "longDesc": "GENRE: Rock Blues Motown"
+     },
+     {
+         "name": "J A Z Z",
+         "streamURL": "http://78.129.146.97:7143/stream2_autodj",
+         "imageURL": "",
+         "desc": "",
+         "longDesc": "GENRE: Jazz"
+     },
+     {
+         "name": "S M O O T H   J A Z Z",
+         "streamURL": "http://cast.magicstreams.gr:9060/index.html;",
+         "imageURL": "",
+         "desc": "",
+         "longDesc": "GENRE: Jazz.  Internet Radio - 111radio athens  - http://www.111radio.gr - 111RADIO (ATHENS GREECE)"
+     },
+     {
+         "name": "KPOP - 케이팝",
+         "streamURL": "http://64.71.79.181:8040",
+         "imageURL": "",
+         "desc": "케이팝",
+         "longDesc": "KPOP - Korean POP 케이팝"
+     },
+     {
+         "name": "Japanese POP - ジェイポップ",
+         "streamURL": "http://149.56.147.197:8997/listen.pls?sid=1&t=.pls",
+         "imageURL": "",
+         "desc": "ジェイポップ",
+	"longDesc": "Japanese POP ジェイポップ"
+     },
+     {
+         "name": "Chinese POP - 中文流行音樂",
+         "streamURL": "http://208.80.53.108:26814",
+         "imageURL": "",
+         "desc": "中文流行音樂",
+         "longDesc": "Chinese POP - 中文流行音樂"
+     },
+     {
+         "name": "..::RUSSIAN WAVE::..",
+         "streamURL": "http://air.volna.top:80/RuWave48",
+         "imageURL": "",
+         "desc": "..::РУССКАЯ ВОЛНА::..  РРадио Русский Хит",
+         "longDesc": "..::РУССКАЯ ВОЛНА::..  РРадио Русский Хит"
+     },
+     {
+         "name": "Traditional Country Music",
+         "streamURL": "http://213.222.25.94:8300/stream",
+         "imageURL": "",
+         "desc": "",
+         "longDesc": "GENRE: Country"
+     },
+     {
+         "name": "NEW Country Music",
+         "streamURL": "http://206.190.135.28:8055/autodj",
+         "imageURL": "",
+         "desc": "",
+         "longDesc": "GENRE: Country"
+     },
+     {
+         "name": "ECLECTIC 24 - KCRW 89.9 FM",
+         "streamURL": "http://www.kcrw.com/pls/kcrwmusic.pls",
+         "imageURL": "",
+         "desc": "Santa Monica College - Santa Monica, CA  USA",
+         "longDesc": "GENRE: College"
+     },
+     {
+         "name": "KXLU 88.9 FM - LMU",
+         "streamURL": "http://www.ednixon.com:8120/stream",
+         "imageURL": "",
+         "desc": "Loyola Marymount University - Los Angeles, CA  USA",
+         "longDesc": "GENRE: College"
+     },
+     {
+         "name": "KPCC 89.3 NPR",
+         "streamURL": "http://kpcclive1.publicradio.org/kpcclive",
+         "imageURL": "",
+         "desc": "National Public Radio (NPR) - Pasadena City College - Pasadena, CA  USA",
+         "longDesc": "GENRE: College"
+     },
+     {
+         "name": "LiveIreland Radio",
+         "streamURL": "http://192.111.140.11:8058/listen.pls?sid=1&t=.pls",
+         "imageURL": "",
+         "desc": "Music & Sounds from Dublin Ireland",
+         "longDesc": "GENRE: Irish Music and News from Dublin Ireland"
+     },
+     {
+         "name": "1940's Radio Station",
+         "streamURL": "http://199.189.111.28:8012",
+         "imageURL": "",
+         "desc": "",
+         "longDesc": "GENRE: Rock"
+     },
+     {
+         "name": "paypal.me/JohnAvatar",
+         "streamURL": "WEBSITE",
+         "imageURL": "",
+         "desc": "Please Touch ADs, or Donate 4 more cool APPS & TECH!:^)",
+         "longDesc": "Please Touch ADs, or Donate 4 more cool APPS & TECH!:^).  I Design & Code COOL NEW TECHNOLOGY (Entrepreneur / Inventor, as well as Filmmaker/Engineer) and products on my own dime, if you TOUCH the AD Banners and download their app I get paid and/or I can always use donations to my PayPal.me account, or maybe you're a VC looking for a perfect STARTUP and ready to invest.... so I can spend 100% of my time on my projects / LAB....  So please, donate!  Thank You, - John Avatar • Silicon Beach Design Studios @ • JOHNAVATAR.com • Santa Monica, CA 90402 - https://www.paypal.me/JohnAvatar"
+     },
+     {
+         "name": "SONGNAME",
+         "streamURL": "WEBSITE",
+         "imageURL": "",
+         "desc": "ARTISTNAME",
+         "longDesc": "INFO"
+     }
+    ]
+}
