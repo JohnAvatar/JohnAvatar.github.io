@@ -311,7 +311,7 @@
      },
      {
          "name": "LiveIreland Radio",
-         "streamURL": "http://192.111.140.11:8058/listen.pls?sid=1&t=.pls",
+         "streamURL": "https://lynx.prostreaming.net/stream/liveireland/stream.pls",
          "imageURL": "",
          "desc": "Music & Sounds from Dublin Ireland",
          "longDesc": "GENRE: Irish Music and News from Dublin Ireland"
