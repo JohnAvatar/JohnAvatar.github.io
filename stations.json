@@ -262,14 +262,14 @@
      },
      {
          "name": "Traditional Country Music",
-         "streamURL": "http://s2.radio.co/s48275019e/listen",
+         "streamURL": "http://www.norskcountry.net/",
          "imageURL": "",
          "desc": "TexasCountryMusicRadio.org",
          "longDesc": "GENRE: Country"
      },
      {
          "name": "NEW Country Music",
-         "streamURL": "http://206.190.135.28:8055/autodj",
+         "streamURL": "https://www.radionewcountry.com/",
          "imageURL": "",
          "desc": "",
          "longDesc": "GENRE: Country"
