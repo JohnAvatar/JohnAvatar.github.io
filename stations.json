@@ -271,10 +271,10 @@
          "name": "NEW Country Music",
          "streamURL": "http://94.23.67.172:9475/listen.pls?sid=1",
          "imageURL": "",
-         "desc": "Radio New Country
+         "desc": "",
+         "longDesc": "GENRE: Country - Radio New Country
 Alexandra Kay - Straight For The Heart
-https://www.radionewcountry.com",
-         "longDesc": "GENRE: Country"
+https://www.radionewcountry.com"
      },
      {
          "name": "ECLECTIC 24 - KCRW 89.9 FM",
