@@ -262,9 +262,9 @@
      },
      {
          "name": "Traditional Country Music",
-         "streamURL": "http://www.norskcountry.net/",
+         "streamURL": "https://www.tuneintoradio1.com:8050/radio.mp3",
          "imageURL": "",
-         "desc": "TexasCountryMusicRadio.org",
+         "desc": "Norsk Country Radio",
          "longDesc": "GENRE: Country"
      },
      {
