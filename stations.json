@@ -2,7 +2,7 @@
     "station":
     [
     {
-	"name": "Electronic Space Music",
+	"name": "GITHUB Electronic Space Music",
 	"streamURL": "http://eagle.streemlion.com:4580/stream",
 	"imageURL": "",
 	"desc": "JourneyScapesRadio.com",
@@ -16,10 +16,10 @@
 	"longDesc": "NIGHTRIDE.fm - EBSM - Electro Body Synth Music - On Air: ASSALM - Influenza - 24/7 dark clubbing live mix with heavy industrial, cyberpunk, EBM and dark synthwave influences."
     },
     {
-        "name": "SYNTHPOP",
-        "streamURL": "http://air.synthez.net:8888/192",
+        "name": "Second Life 1",
+        "streamURL": "https://streamssl.chilltrax.com/index.html?sid=1",
         "imageURL": "",
-        "desc": "Electronic Synth Hits Synthez.Net",
+        "desc": "CHILLTRAX",
         "longDesc": "GENRE: Synthpop Radio Synthez.Net | 128kbs+ On Air: Karuss - It's Worth A Try 24/7 ONLINE :: Synthpop | Electropop | Futurepop | EBM | Industrial"
     },
     {
