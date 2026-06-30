@@ -269,7 +269,7 @@
      },
      {
          "name": "NEW Country Music",
-         "streamURL": "https://www.radionewcountry.com/",
+         "streamURL": "http://94.23.67.172:9475/listen.pls?sid=1",
          "imageURL": "",
          "desc": "",
          "longDesc": "GENRE: Country"
