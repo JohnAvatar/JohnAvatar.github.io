@@ -87,7 +87,7 @@
      },
      {
          "name": "CHRISTMAS",
-         "streamURL": "http://bitsmitter.com:9000/hollyfm",
+         "streamURL": "http://51.255.235.165:5192/listen.pls?sid=1",
          "imageURL": "",
          "desc": "Santa Claus and Everything!",
          "longDesc": "GENRE: Christmas Holiday"
