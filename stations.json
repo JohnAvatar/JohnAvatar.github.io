@@ -2,21 +2,21 @@
     "station":
     [
     {
-	"name": "LOCAL Electronic Space Music",
+	"name": "Electronic Space Music GTHB",
 	"streamURL": "http://eagle.streemlion.com:4580/stream",
 	"imageURL": "",
 	"desc": "JourneyScapesRadio.com",
 	"longDesc": "GENRE Electronic Synth"
     },
     {
-	"name": "EBSM - Electro Body Synth Music",
-	"streamURL": "https://nightride.fm/stream/ebsm.m4a",
-	"imageURL": "",
-	"desc": "JOHN WICK's MATRIX       NightRide.fm",
-	"longDesc": "NIGHTRIDE.fm - EBSM - Electro Body Synth Music - On Air: ASSALM - Influenza - 24/7 dark clubbing live mix with heavy industrial, cyberpunk, EBM and dark synthwave influences."
+        "name": "JOHN WICK's MATRIX",
+        "streamURL": "http://stream.friskyradio.com/frisky_mp3_hi",
+        "imageURL": "",
+        "desc": "DANCE  MUSIC - BERLIN GERMANY",
+        "longDesc": "GENRE: Electronic Synth"
     },
     {
-        "name": "Second Life 1",
+        "name": "CHILLTRAX - Second Life 1",
         "streamURL": "https://streamssl.chilltrax.com/index.html?sid=1",
         "imageURL": "",
         "desc": "CHILLTRAX",
@@ -24,16 +24,9 @@
     },
     {
         "name": "ITALO EURO DISCO",
-        "streamURL": "http://newairhost.com:8034/listen.pls?sid=1&t=.pls",
+        "streamURL": "https://live.mixx.one/listen/mixxone-italo-disco/mixxone-italo-disco-128.mp3",
         "imageURL": "",
-        "desc": "RadioMaxItalo.com",
-        "longDesc": "GENRE: Electronic Synth"
-    },
-    {
-        "name": "GIANT WORKOUT",
-        "streamURL": "http://stream.friskyradio.com/frisky_mp3_hi",
-        "imageURL": "",
-        "desc": "DANCE  MUSIC - BERLIN GERMANY",
+        "desc": "",
         "longDesc": "GENRE: Electronic Synth"
     },
 	{
@@ -66,28 +59,28 @@
      },
      {
 	"name": "Cinematic Soundtracks 2",
-	"streamURL": "http://94.23.51.96:8001/;",
+	"streamURL": "http://kathy.torontocast.com:1820/stream",
 	"imageURL": "",
 	"desc": "CineMix.us Film Soundtracks",
 	"longDesc": "GENRE: Film Movie Cinema Soundtrack"
      },
      {
          "name": "Disney Park Music 1",
-         "streamURL": "http://162.244.80.106:8108/listen;",
+         "streamURL": "https://cheetah.streemlion.com/Channel3?1615926817871",
          "imageURL": "",
          "desc": "TuneDisney.com Disney Music, Park & Rides, WorldWide... like being there!",
          "longDesc": "GENRE: Disney - DPARKRADIO"
      },
      {
          "name": "Disney Park Music 2",
-         "streamURL": "http://horizons.subsonicradio.com:8000/requests.mp3",
+         "streamURL": "https://cheetah.streemlion.com/Channel4?1615926845198",
          "imageURL": "",
          "desc": "SubsonicRadio.com - Disney Theme Park Music ",
          "longDesc": "GENRE: Disney Theme Park Music "
      },
      {
          "name": "CHRISTMAS",
-         "streamURL": "http://bitsmitter.com:9000/hollyfm",
+         "streamURL": "http://51.255.235.165:5192/listen.pls?sid=1",
          "imageURL": "",
          "desc": "Santa Claus and Everything!",
          "longDesc": "GENRE: Christmas Holiday"
@@ -101,14 +94,14 @@
      },
      {
          "name": "Wolfgang Amadeus Mozart",
-         "streamURL": "http://37.251.146.169:8300/stream",
+         "streamURL": "http://streaming04.liveboxstream.uk:8018/listen.pls?sid=1",
          "imageURL": "",
          "desc": "Wolfgang Amadeus Mozart",
          "longDesc": "GENRE: Classical - Wolfgang Amadeus Mozart (27 January 1756 – 5 December 1791) Austrian composer"
      },
      {
          "name": "Ludvig Van Beethoven",
-         "streamURL": "http://37.251.146.169:7200/stream",
+         "streamURL": "http://62.149.196.16:8010/listen.pls?sid=1",
          "imageURL": "",
          "desc": "Ludvig Van Beethoven",
          "longDesc": "GENRE: Classical - Ludwig van Beethoven (baptised 17 December 1770 – 26 March 1827) German composer"
@@ -135,15 +128,22 @@
          "longDesc": "GENRE: Rock"
      },
      {
-         "name": "METAL",
-         "streamURL": "http://23.237.150.98:8512/;",
+         "name": "METAL ONE",
+         "streamURL": "http://s3.myradiostream.com:4198/stream",
          "imageURL": "",
          "desc": "M E T A L M E T A L M E T A L M E T A L",
-         "longDesc": "GENRE: Rock. SQUIZZ - M E T A L M E T A L M E T A L M E T A L M E T A L M E T A L M E T A L M E T A L M E T A L M E T A L M E T A L M E T A L M E T A L "
+         "longDesc": "GENRE: Rock - MIX ROCK METAL RADIO - M E T A L M E T A L M E T A L M E T A L M E T A L M E T A L M E T A L M E T A L M E T A L M E T A L M E T A L M E T A L M E T A L "
+     },
+     {
+         "name": "METAL TWO CHRISTROCK",
+         "streamURL": "http://mediacp.theblast.fm:8004/128",
+         "imageURL": "",
+         "desc": "M E T A L M E T A L M E T A L M E T A L",
+         "longDesc": "GENRE: Rock - Christian Metal Hardcore Metalcore Industrial Various Music Radio - M E T A L M E T A L M E T A L M E T A L M E T A L M E T A L M E T A L M E T A L M E T A L M E T A L M E T A L M E T A L M E T A L "
      },
      {
          "name": "Shoegaze & Dream POP",
-         "streamURL": "https://securestreams6.autopo.st:2102/;#.mp3",
+         "streamURL": "http://radio.streemlion.com:4400/stream",
          "imageURL": "",
          "desc": "DKFM Shoegaze Radio - Los Angeles, CA  USA",
          "longDesc": "GENRE: Rock"
@@ -157,9 +157,9 @@
      },
      {
          "name": "@MelaniaTrump RADIO",
-         "streamURL": "http://stream.rockradio.si:9034/;stream/1",
+         "streamURL": "http://cast.streams.ovh:12067/autodj",
          "imageURL": "",
-         "desc": "Classic Rock and Roll, Slovenia Style! www.rockradio.si",
+         "desc": "Classic Rock and Roll, Slovenia Style! www.rockradio.si??",
          "longDesc": "GENRE: Rock"
      },
      {
@@ -171,45 +171,45 @@
      },
      {
          "name": "80's ~ 90's   H I T S",
-         "streamURL": "http://91.121.155.204:8048/listen.pls?sid=1",
+         "streamURL": "http://listen.bee.radio:80/classics",
          "imageURL": "",
          "desc": "1000 HITS 80s 90s",
-         "longDesc": "GENRE: 80s 90s oldies hits"
+         "longDesc": "GENRE: 80s 90s oldies hits - beeClassics The best 70s, 80s and 90s - https://bee.radio"
      },
      {
          "name": "ROCK OLDIES 60's ~ 80's",
-         "streamURL": "http://46.165.208.21:8313/listen.pls?sid=1&t=.pls",
+         "streamURL": "http://mscp4.live-streams.nl:8140/flac.ogg",
          "imageURL": "",
          "desc": "60's 70's 80's HITS",
-         "longDesc": "GENRE: Rock"
+         "longDesc": "GENRE: Rock - www.pureclassix.com"
      },
      {
          "name": "50's HITS",
-         "streamURL": "http://146.71.124.10:8100/listen.pls?sid=1",
+         "streamURL": "http://quincy.torontocast.com:2940/stream",
          "imageURL": "",
          "desc": "Dreamboat & Petticoats",
          "longDesc": "GENRE: Rock"
      },
      {
          "name": "Easy Listening",
-         "streamURL": "http://5.135.154.72:13548",
+         "streamURL": "http://radio.anim8.gr:1110/stream",
          "imageURL": "",
-         "desc": "Omarama, New Zealand",
+         "desc": "MOODEmic EasyPop",
          "longDesc": "GENRE: Rock"
      },
      {
          "name": "BLUES ROCK",
-         "streamURL": "http://188.165.240.90:8442/stream/1/",
+         "streamURL": "http://play.streams.gr:22015/stream",
          "imageURL": "",
-         "desc": "ThePhoenixRadio.com",
-         "longDesc": "GENRE: Rock Blues / HearMe - Blues Rock VLC"
+         "desc": "Electric Blues",
+         "longDesc": "GENRE: Electric Blues"
      },
      {
          "name": "Rhythm & Blues",
-         "streamURL": "http://192.111.140.11:8272/stream",
+         "streamURL": "http://login.webinternetradio.com:1080/stream",
          "imageURL": "",
-         "desc": "BVHarmonyRadio.com",
-         "longDesc": "GENRE: Rockin Rhythm and Blues Radio - Dedicated to all those who crave the best in late 40's and 50's Blues, Rock'n'Roll, Jive, Swing, Stroll, Early Soul, Jump Blues, Roots Hillbilly, Western Swing and more."
+         "desc": "The Blues Guitar Place",
+         "longDesc": "GENRE: Rockin Rhythm and Blues Radio - The Blues Guitar Place"
      },
      {
          "name": "M O T O W N",
@@ -222,36 +222,36 @@
          "name": "J A Z Z",
          "streamURL": "https://west-aac-64.streamthejazzgroove.com/stream",
          "imageURL": "",
-         "desc": "JazzGroove.org",
+         "desc": "JAZZ & Cool Vibes",
          "longDesc": "GENRE: Jazz"
      },
      {
          "name": "S M O O T H   J A Z Z",
-         "streamURL": "http://cast.magicstreams.gr:9060/index.html;",
+         "streamURL": "http://stream2.hippynet.co.uk:8226/stream",
          "imageURL": "",
-         "desc": "",
-         "longDesc": "GENRE: Jazz.  Internet Radio - 111radio athens  - http://www.111radio.gr - 111RADIO (ATHENS GREECE)"
+         "desc": "Smooth Jazz 24/7",
+         "longDesc": "GENRE: Smooth Jazz 24/7"
      },
      {
          "name": "KPOP - 케이팝",
-         "streamURL": "http://64.71.79.181:8040",
+         "streamURL": "http://e79.kr:80/ballad",
          "imageURL": "",
          "desc": "케이팝",
-         "longDesc": "KPOP - Korean POP 케이팝"
+         "longDesc": "KPOP - Korean POP 케이팝 - Naya Ballad - Soul Kpop # https://sCast.kr"
      },
      {
          "name": "Japan POP - ジェイポップ",
-         "streamURL": "http://audio.misproductions.com/japan48kaacp",
+         "streamURL": "http://jpopsuki.fm:8000/autodj",
          "imageURL": "",
          "desc": "ジェイポップ",
-	"longDesc": "Japanese POP ジェイポップ"
+	"longDesc": "Japanese POP ジェイポップ - JPopsuki Radio! - JPop JRock Electronic Hip-Hop Alternative"
      },
      {
          "name": "China POP - 中文流行音樂",
-         "streamURL": "http://208.80.53.108:26814",
+         "streamURL": "https://lhttp.qtfm.cn/live/4921/64k.mp3",
          "imageURL": "",
          "desc": "中文流行音樂",
-         "longDesc": "Chinese POP - 中文流行音樂"
+         "longDesc": "Chinese POP - 中文流行音樂 - FM94.4 Zhengzhou Music Radio, Zhengzhou China"
      },
      {
          "name": "Russian POP - Русские Песни",
@@ -262,21 +262,21 @@
      },
      {
          "name": "Traditional Country Music",
-         "streamURL": "http://s2.radio.co/s48275019e/listen",
+         "streamURL": "https://www.tuneintoradio1.com:8050/radio.mp3",
          "imageURL": "",
-         "desc": "TexasCountryMusicRadio.org",
+         "desc": "Norsk Country Radio",
          "longDesc": "GENRE: Country"
      },
      {
          "name": "NEW Country Music",
-         "streamURL": "http://206.190.135.28:8055/autodj",
+         "streamURL": "http://94.23.67.172:9475/listen.pls?sid=1",
          "imageURL": "",
-         "desc": "",
-         "longDesc": "GENRE: Country"
+         "desc": "GENRE: Country - Radio New Country",
+         "longDesc": "GENRE: Country - Radio New Country"
      },
      {
          "name": "ECLECTIC 24 - KCRW 89.9 FM",
-         "streamURL": "http://www.kcrw.com/pls/kcrwmusic.pls",
+         "streamURL": "https://streams.kcrw.com/kcrw_mp3",
          "imageURL": "",
          "desc": "Santa Monica College - Santa Monica, CA  USA",
          "longDesc": "GENRE: College"
@@ -290,28 +290,28 @@
      },
      {
          "name": "KPCC 89.3 NPR",
-         "streamURL": "http://kpcclive1.publicradio.org/kpcclive",
+         "streamURL": "https://live.amperwave.net/direct/southerncalipr-kpccfmmp3-imc",
          "imageURL": "",
          "desc": "National Public Radio (NPR) - Pasadena City College - Pasadena, CA  USA",
          "longDesc": "GENRE: College"
      },
      {
-         "name": "SEATTLE 106.9 FM",
-         "streamURL": "https://18423.live.streamtheworld.com/KRWMFMAAC.aac?dist=hubbard&source=hubbard-web&ttag=web",
+         "name": "SEATTLE 99.9 The Rock",
+         "streamURL": "https://live.amperwave.net/direct/audacy-kiswfmaac-imc",
          "imageURL": "",
          "desc": "TODAY & Yesterday's HITS - Seattle FM Radio",
-         "longDesc": "GENRE: TODAY & Yesterday's HITS, mostly POP Music"
+         "longDesc": "GENRE: TODAY & Yesterday's HITS, mostly POP Music - Seattle, WA, USA Rock 99.9 KISW-FM KISW-HD 99.9 The Rock KISW The Rock of Seattle The Rock of Seattle. KISW-FM features BJ Migs, The Mens Room, and the best Rock"
      },
      {
          "name": "1940's Radio Station",
-         "streamURL": "http://199.189.111.28:8012",
+         "streamURL": "http://solid2.streamupsolutions.com:24929/listen.pls?sid=1",
          "imageURL": "",
          "desc": "",
-         "longDesc": "GENRE: Rock"
+         "longDesc": "GENRE: The UK 1940s Radio Station - 1920s -1930s 1940s"
      },
      {
          "name": "LiveIreland Radio",
-         "streamURL": "http://192.111.140.11:8058/listen.pls?sid=1&t=.pls",
+         "streamURL": "https://lynx.prostreaming.net/stream/liveireland/stream.pls",
          "imageURL": "",
          "desc": "Music & Sounds from Dublin Ireland",
          "longDesc": "GENRE: Irish Music and News from Dublin Ireland"
