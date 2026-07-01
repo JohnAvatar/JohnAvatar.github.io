@@ -206,10 +206,10 @@
      },
      {
          "name": "Rhythm & Blues",
-         "streamURL": "http://192.111.140.11:8272/stream",
+         "streamURL": "http://server32622.streamplus.de:10778/stream",
          "imageURL": "",
-         "desc": "BVHarmonyRadio.com",
-         "longDesc": "GENRE: Rockin Rhythm and Blues Radio - Dedicated to all those who crave the best in late 40's and 50's Blues, Rock'n'Roll, Jive, Swing, Stroll, Early Soul, Jump Blues, Roots Hillbilly, Western Swing and more."
+         "desc": "Radio BlueSky",
+         "longDesc": "GENRE: Rockin Rhythm and Blues Radio - Radio BlueSky - RBS-CHARTS"
      },
      {
          "name": "M O T O W N",
