@@ -290,7 +290,7 @@
      },
      {
          "name": "KPCC 89.3 NPR",
-         "streamURL": "http://kpcclive1.publicradio.org/kpcclive",
+         "streamURL": "https://live.amperwave.net/direct/southerncalipr-kpccfmmp3-imc",
          "imageURL": "",
          "desc": "National Public Radio (NPR) - Pasadena City College - Pasadena, CA  USA",
          "longDesc": "GENRE: College"
