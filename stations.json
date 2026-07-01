@@ -128,11 +128,18 @@
          "longDesc": "GENRE: Rock"
      },
      {
-         "name": "METAL",
-         "streamURL": "http://radio.440music.net:8000/metal",
+         "name": "METAL ONE",
+         "streamURL": "http://s3.myradiostream.com:4198/stream",
          "imageURL": "",
          "desc": "M E T A L M E T A L M E T A L M E T A L",
-         "longDesc": "GENRE: Rock. 440Music Indie Metal Music Radio - M E T A L M E T A L M E T A L M E T A L M E T A L M E T A L M E T A L M E T A L M E T A L M E T A L M E T A L M E T A L M E T A L "
+         "longDesc": "GENRE: Rock - MIX ROCK METAL RADIO - M E T A L M E T A L M E T A L M E T A L M E T A L M E T A L M E T A L M E T A L M E T A L M E T A L M E T A L M E T A L M E T A L "
+     },
+     {
+         "name": "METAL TWO CHRISTROCK",
+         "streamURL": "http://mediacp.theblast.fm:8004/128",
+         "imageURL": "",
+         "desc": "M E T A L M E T A L M E T A L M E T A L",
+         "longDesc": "GENRE: Rock - Christian Metal Hardcore Metalcore Industrial Various Music Radio - M E T A L M E T A L M E T A L M E T A L M E T A L M E T A L M E T A L M E T A L M E T A L M E T A L M E T A L M E T A L M E T A L "
      },
      {
          "name": "Shoegaze & Dream POP",
