@@ -241,10 +241,10 @@
      },
      {
          "name": "Japan POP - ジェイポップ",
-         "streamURL": "http://audio.misproductions.com/japan48kaacp",
+         "streamURL": "http://jpopsuki.fm:8000/autodj",
          "imageURL": "",
          "desc": "ジェイポップ",
-	"longDesc": "Japanese POP ジェイポップ"
+	"longDesc": "Japanese POP ジェイポップ - JPopsuki Radio! - JPop JRock Electronic Hip-Hop Alternative"
      },
      {
          "name": "China POP - 中文流行音樂",
