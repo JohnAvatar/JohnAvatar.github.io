@@ -157,9 +157,9 @@
      },
      {
          "name": "@MelaniaTrump RADIO",
-         "streamURL": "http://stream.rockradio.si:9034/;stream/1",
+         "streamURL": "http://cast.streams.ovh:12067/autodj",
          "imageURL": "",
-         "desc": "Classic Rock and Roll, Slovenia Style! www.rockradio.si",
+         "desc": "Classic Rock and Roll, Slovenia Style! www.rockradio.si??",
          "longDesc": "GENRE: Rock"
      },
      {
