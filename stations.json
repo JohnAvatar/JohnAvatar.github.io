@@ -276,7 +276,7 @@
      },
      {
          "name": "ECLECTIC 24 - KCRW 89.9 FM",
-         "streamURL": "http://www.kcrw.com/pls/kcrwmusic.pls",
+         "streamURL": "https://streams.kcrw.com/kcrw_mp3",
          "imageURL": "",
          "desc": "Santa Monica College - Santa Monica, CA  USA",
          "longDesc": "GENRE: College"
