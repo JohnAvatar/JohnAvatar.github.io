@@ -318,7 +318,7 @@
      },
      {
          "name": "SONGNAME",
-         "streamURL": "WEBSITE",
+         "streamURL": "http://www.johnavatar.com",
          "imageURL": "",
          "desc": "ARTISTNAME",
          "longDesc": "INFO"
