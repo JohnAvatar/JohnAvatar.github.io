@@ -295,27 +295,7 @@
          "desc": "National Public Radio (NPR) - Pasadena City College - Pasadena, CA  USA",
          "longDesc": "GENRE: College"
      },
-     {
-         "name": "SEATTLE 99.9 The Rock",
-         "streamURL": "https://live.amperwave.net/direct/audacy-kiswfmaac-imc",
-         "imageURL": "",
-         "desc": "TODAY & Yesterday's HITS - Seattle FM Radio",
-         "longDesc": "GENRE: TODAY & Yesterday's HITS, mostly POP Music - Seattle, WA, USA Rock 99.9 KISW-FM KISW-HD 99.9 The Rock KISW The Rock of Seattle The Rock of Seattle. KISW-FM features BJ Migs, The Mens Room, and the best Rock"
-     },
-     {
-         "name": "1940's Radio Station",
-         "streamURL": "http://solid2.streamupsolutions.com:24929/listen.pls?sid=1",
-         "imageURL": "",
-         "desc": "",
-         "longDesc": "GENRE: The UK 1940s Radio Station - 1920s -1930s 1940s"
-     },
-     {
-         "name": "LiveIreland Radio",
-         "streamURL": "https://lynx.prostreaming.net/stream/liveireland/stream.pls",
-         "imageURL": "",
-         "desc": "Music & Sounds from Dublin Ireland",
-         "longDesc": "GENRE: Irish Music and News from Dublin Ireland"
-     },
+     
      {
          "name": "SONGNAME",
          "streamURL": "WEBSITE",
