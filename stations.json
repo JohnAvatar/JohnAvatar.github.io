@@ -318,7 +318,7 @@
      },
      {
          "name": "SONGNAME",
-         "streamURL": "http://www.johnavatar.com",
+         "streamURL": "https://s1.voscast.com:8653/stream",
          "imageURL": "",
          "desc": "ARTISTNAME",
          "longDesc": "INFO"
