@@ -261,13 +261,6 @@
          "longDesc": "Russian POP - RuSongs.ru Русские Песни"
      },
      {
-         "name": "Country Music",
-         "streamURL": "http://94.23.67.172:9475/listen.pls?sid=1",
-         "imageURL": "",
-         "desc": "",
-         "longDesc": "GENRE: Country"
-     },
-     {
          "name": "Traditional Country Music",
          "streamURL": "https://www.tuneintoradio1.com:8050/radio.mp3",
          "imageURL": "",
