@@ -9,11 +9,11 @@
 	"longDesc": "GENRE Electronic Synth"
     },
     {
-	"name": "EBSM - Electro Body Synth Music",
-	"streamURL": "https://nightride.fm/stream/ebsm.m4a",
-	"imageURL": "",
-	"desc": "JOHN WICK's MATRIX       NightRide.fm",
-	"longDesc": "NIGHTRIDE.fm - EBSM - Electro Body Synth Music - On Air: ASSALM - Influenza - 24/7 dark clubbing live mix with heavy industrial, cyberpunk, EBM and dark synthwave influences."
+        "name": "JOHN WICK's MATRIX",
+        "streamURL": "http://stream.friskyradio.com/frisky_mp3_hi",
+        "imageURL": "",
+        "desc": "DANCE  MUSIC - BERLIN GERMANY",
+        "longDesc": "GENRE: Electronic Synth"
     },
     {
         "name": "CHILLTRAX - Second Life 1",
@@ -27,13 +27,6 @@
         "streamURL": "https://live.mixx.one/listen/mixxone-italo-disco/mixxone-italo-disco-128.mp3",
         "imageURL": "",
         "desc": "",
-        "longDesc": "GENRE: Electronic Synth"
-    },
-    {
-        "name": "GIANT WORKOUT",
-        "streamURL": "http://stream.friskyradio.com/frisky_mp3_hi",
-        "imageURL": "",
-        "desc": "DANCE  MUSIC - BERLIN GERMANY",
         "longDesc": "GENRE: Electronic Synth"
     },
 	{
