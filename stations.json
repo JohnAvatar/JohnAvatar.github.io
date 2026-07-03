@@ -162,8 +162,15 @@
          "desc": "Classic Rock and Roll, Slovenia Style! www.rockradio.si??",
          "longDesc": "GENRE: Rock"
      },
+    {
+         "name": "Classic Rock ONE",
+         "streamURL": "http://144.217.158.59:5000/listen.pls?sid=1",
+         "imageURL": "",
+         "desc": "Classic, Rock, Top, 40",
+         "longDesc": "GENRE: Classic Rock = classicrockflorida.com "
+     },
      {
-         "name": "Classic Rock",
+         "name": "Classic Rock TWO",
          "streamURL": "http://www.uturnradio.com/media/classic_rock.m3u",
          "imageURL": "",
          "desc": "Classic, Rock, Top, 40",
@@ -198,7 +205,14 @@
          "longDesc": "GENRE: Rock"
      },
      {
-         "name": "BLUES ROCK",
+         "name": "BLUES ROCK ONE",
+         "streamURL": "http://i4.streams.ovh:8352/listen.pls?sid=1",
+         "imageURL": "",
+         "desc": "Electric Blues",
+         "longDesc": "GENRE: Blues , Blues Rock , R&B, Blues Radio, www.bluesradio.gr"
+     },
+     {
+         "name": "BLUES ROCK TWO",
          "streamURL": "http://play.streams.gr:22015/stream",
          "imageURL": "",
          "desc": "Electric Blues",
