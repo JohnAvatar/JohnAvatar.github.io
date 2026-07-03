@@ -226,11 +226,11 @@
          "longDesc": "GENRE: Rock"
      },
      {
-         "name": "Easy Listening Retail",
+         "name": "Easy Listening Moody",
          "streamURL": "http://radio.anim8.gr:2120/stream",
          "imageURL": "",
          "desc": "Moody Easy",
-         "longDesc": "GENRE: Moody Easy"
+         "longDesc": "GENRE: Moody Easy, Easy Listening Retail"
      },
       {
          "name": "BLUES ROCK",
