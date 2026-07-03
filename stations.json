@@ -218,6 +218,13 @@
          "desc": "MOODEmic EasyPop",
          "longDesc": "GENRE: Rock"
      },
+     {
+         "name": "Easy Listening Retail",
+         "streamURL": "http://radio.anim8.gr:2120/stream",
+         "imageURL": "",
+         "desc": "Moody Easy",
+         "longDesc": "GENRE: Moody Easy"
+     },
       {
          "name": "BLUES ROCK",
          "streamURL": "http://play.streams.gr:22015/stream",
