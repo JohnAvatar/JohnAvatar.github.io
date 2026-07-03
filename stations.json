@@ -204,15 +204,8 @@
          "desc": "MOODEmic EasyPop",
          "longDesc": "GENRE: Rock"
      },
-     {
-         "name": "BLUES ROCK ONE",
-         "streamURL": "http://i4.streams.ovh:8352/listen.pls?sid=1",
-         "imageURL": "",
-         "desc": "Electric Blues",
-         "longDesc": "GENRE: Blues , Blues Rock , R&B, Blues Radio, www.bluesradio.gr"
-     },
-     {
-         "name": "BLUES ROCK TWO",
+      {
+         "name": "BLUES ROCK",
          "streamURL": "http://play.streams.gr:22015/stream",
          "imageURL": "",
          "desc": "Electric Blues",
