@@ -79,7 +79,14 @@
          "longDesc": "GENRE: Disney Theme Park Music "
      },
      {
-         "name": "CHRISTMAS",
+         "name": "CHRISTMAS ONE",
+         "streamURL": "http://ingest2.cdnstream1.com:7080/b55667_128mp3",
+         "imageURL": "",
+         "desc": "Biggest Hits of Christmas and More",
+         "longDesc": "GENRE: Sacramento, USA Xmas-Classical Xmas-Oldies thatchristmaschannel.com The Biggest Hits of Christmas and More"
+     },
+     {
+         "name": "CHRISTMAS TWO",
          "streamURL": "http://51.255.235.165:5192/listen.pls?sid=1",
          "imageURL": "",
          "desc": "Santa Claus and Everything!",
