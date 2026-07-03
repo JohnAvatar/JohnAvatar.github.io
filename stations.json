@@ -65,11 +65,18 @@
 	"longDesc": "GENRE: Film Movie Cinema Soundtrack"
      },
      {
+         "name": "Disney Fantasy",
+         "streamURL": "https://stream1-epic-classical.radiohost.de/classical-fairy-tales",
+         "imageURL": "",
+         "desc": "Epic Classical - Classical Fairy Tales",
+         "longDesc": "GENRE: Disney - Epic Classical - Classical Fairy Tales , Germany Classic-Hits Classical Disney"
+     },
+     {
          "name": "Disney Park Music 1",
          "streamURL": "https://cheetah.streemlion.com/Channel3?1615926817871",
          "imageURL": "",
-         "desc": "TuneDisney.com Disney Music, Park & Rides, WorldWide... like being there!",
-         "longDesc": "GENRE: Disney - DPARKRADIO"
+         "desc": "Disney Music, Park & Rides, WorldWide... like being there!",
+         "longDesc": "GENRE: Disney Christmas"
      },
      {
          "name": "Disney Park Music 2",
