@@ -208,6 +208,13 @@
          "name": "50's HITS",
          "streamURL": "http://quincy.torontocast.com:2940/stream",
          "imageURL": "",
+         "desc": "50's at their best",
+         "longDesc": "GENRE: Rock"
+     },
+     {
+         "name": "50's Dreamboat & Petticoats",
+         "streamURL": "https://antares.dribbcast.com/proxy/s8100/stream",
+         "imageURL": "",
          "desc": "Dreamboat & Petticoats",
          "longDesc": "GENRE: Rock"
      },
